@@ -286,9 +286,9 @@
 
                             <!-- Tags Area -->
                             <div class="tags-area">
-                                <a href="#">Multipurpose</a>
-                                <a href="#">Design</a>
-                                <a href="#">Ideas</a>
+                                <a href="#">Enduro</a>
+                                <a href="#">Moto</a>
+                                <a href="#">Race</a>
                             </div>
 
                             <!-- Comment Area Start -->

@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Sport Blog - SArticle 1</title>
+    <title>Sport Blog - Article 1</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -270,9 +270,9 @@
 
                             <!-- Tags Area -->
                             <div class="tags-area">
-                                <a href="#">Multipurpose</a>
-                                <a href="#">Design</a>
-                                <a href="#">Ideas</a>
+                                <a href="#">Handball</a>
+                                <a href="#">Sport</a>
+                                <a href="#">Team</a>
                             </div>
 
                             <!-- Comment Area Start -->
