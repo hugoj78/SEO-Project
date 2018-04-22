@@ -406,15 +406,14 @@
                                 </a>
                             </div>
                         </div>
-
-                        <!-- Single Widget Area -->
+ <!-- Single Widget Area -->
                         <div class="single-widget-area popular-post-widget">
                             <div class="widget-title text-center">
                                 <h6>Populer Post</h6>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/7.jpg" alt="">
+                                <img src="img/sidebar-img/7.jpg" alt="Dance">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>Top dancer !</h6>
@@ -424,7 +423,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/10.jpg" alt="">
+                                <img src="img/sidebar-img/10.jpg" alt="VTT">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>The 8 Best biker</h6>
@@ -434,7 +433,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/11.jpg" alt="">
+                                <img src="img/sidebar-img/11.jpg" alt="Skateboard">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>free ride in skateboard</h6>
@@ -444,7 +443,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/12.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="Voiture">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>Race</h6>
@@ -454,10 +453,10 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/8.jpeg" alt="">
+                                <img src="img/sidebar-img/8.jpeg" alt="Musculation">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Sport:muscultion </h6>
+                                        <h6>Sport: muscultion </h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
@@ -467,7 +466,7 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area add-widget text-center">
                             <div class="add-widget-area">
-                                <img src="img/sidebar-img/12.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="Sport car">
                                 <div class="add-text">
                                     <div class="yummy-table">
                                         <div class="yummy-table-cell">
@@ -508,7 +507,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Yoga">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -524,7 +523,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -540,7 +539,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -556,7 +555,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -572,7 +571,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -588,7 +587,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -604,7 +603,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -620,7 +619,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">

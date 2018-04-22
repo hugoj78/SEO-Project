@@ -143,7 +143,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/courir21.jpeg" alt="">
+            <img src="img/bg-img/courir21.jpeg" alt="Running">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -159,7 +159,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/nager.jpeg" alt="">
+            <img src="img/bg-img/nager.jpeg" alt="natation">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -175,7 +175,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/moto.jpeg" alt="">
+            <img src="img/bg-img/moto.jpeg" alt="moto">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -191,7 +191,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/surf.jpeg" alt="">
+            <img src="img/bg-img/surf.jpeg" alt="surf">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -207,7 +207,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/ski.jpeg" alt="">
+            <img src="img/bg-img/ski.jpeg" alt="ski">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -229,7 +229,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".3s">
-                        <img src="img/catagory-img/hand2.jpg" alt="">
+                        <img src="img/catagory-img/hand2.jpg" alt="handball">
                         <div class="catagory-title">
                             <a href="static1.php">
                                 <h5>Article 1</h5>
@@ -239,7 +239,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".6s">
-                        <img src="img/catagory-img/vroum3.jpg" alt="">
+                        <img src="img/catagory-img/vroum3.jpg" alt="motocross">
                         <div class="catagory-title">
                             <a href="static2.php">
                                 <h5>Article 2</h5>
@@ -249,7 +249,7 @@
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".9s">
-                        <img src="img/catagory-img/Formule1.png" alt="">
+                        <img src="img/catagory-img/Formule1.png" alt="formule 1">
                         <div class="catagory-title">
                             <a href="static3.php">
                                 <h5>Article 3</h5>
@@ -274,7 +274,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".2s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/20.jpg" alt="">
+                                    <img src="img/blog-img/20.jpg" alt="team sport">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -319,7 +319,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".4s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/21.jpg" alt="">
+                                    <img src="img/blog-img/21.jpg" alt="femme sport">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -362,7 +362,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".6s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/22.jpg" alt="">
+                                    <img src="img/blog-img/22.jpg" alt="football americain">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -405,7 +405,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".8s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/23.jpg" alt="">
+                                    <img src="img/blog-img/23.jpg" alt="football">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -448,7 +448,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay="1s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/24.jpg" alt="">
+                                    <img src="img/blog-img/24.jpg" alt="Escalade">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -493,7 +493,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".2s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/25.jpg" alt="">
+                                    <img src="img/blog-img/25.jpg" alt="Skateboard">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -538,7 +538,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".4s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/26.jpg" alt="">
+                                    <img src="img/blog-img/26.jpg" alt="Golf">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -583,7 +583,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".6s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/27.jpg" alt="">
+                                    <img src="img/blog-img/27.jpg" alt="Football americain">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -628,7 +628,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".8s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/28.jpg" alt="">
+                                    <img src="img/blog-img/28.jpg" alt="Aviron">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -680,7 +680,7 @@
                                 <h6>About Me</h6>
                             </div>
                             <div class="about-me-widget-thumb">
-                                <img src="img/about-img/1.jpg" alt="">
+                                <img src="img/about-img/1.jpg" alt="Femme journaliste">
                             </div>
                             <h4 class="font-shadow-into-light">Shopia Bernard</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
@@ -708,7 +708,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/7.jpg" alt="">
+                                <img src="img/sidebar-img/7.jpg" alt="Dance">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>Top dancer !</h6>
@@ -718,7 +718,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/10.jpg" alt="">
+                                <img src="img/sidebar-img/10.jpg" alt="VTT">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>The 8 Best biker</h6>
@@ -728,7 +728,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/11.jpg" alt="">
+                                <img src="img/sidebar-img/11.jpg" alt="Skateboard">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>free ride in skateboard</h6>
@@ -738,7 +738,7 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/12.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="Voiture">
                                 <div class="post-content">
                                     <a href="#">
                                         <h6>Race</h6>
@@ -748,10 +748,10 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/8.jpeg" alt="">
+                                <img src="img/sidebar-img/8.jpeg" alt="Musculation">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Sport:muscultion </h6>
+                                        <h6>Sport: muscultion </h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
@@ -761,7 +761,7 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area add-widget text-center">
                             <div class="add-widget-area">
-                                <img src="img/sidebar-img/12.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="Sport car">
                                 <div class="add-text">
                                     <div class="yummy-table">
                                         <div class="yummy-table-cell">
@@ -800,7 +800,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Yoga">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -816,7 +816,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -832,7 +832,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -848,7 +848,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -864,7 +864,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -880,7 +880,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -896,7 +896,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -912,7 +912,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">

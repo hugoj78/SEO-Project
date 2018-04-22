@@ -238,13 +238,13 @@
     </div>
     <!-- ****** Contact Area End ****** -->
 
-       <!-- ****** Instagram Area Start ****** -->
+    <!-- ****** Instagram Area Start ****** -->
     <div class="instargram_area owl-carousel section_padding_100_0 clearfix" id="portfolio">
 
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Yoga">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -260,7 +260,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -276,7 +276,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -292,7 +292,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -308,7 +308,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -324,7 +324,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -340,7 +340,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/8.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="Dance">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -356,7 +356,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/11.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="Basketball">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
