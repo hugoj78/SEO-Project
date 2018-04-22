@@ -759,7 +759,7 @@ li {
 }
 
 .instagram_gallery_item .hover_overlay {
-    background: rgba(252, 108, 63, 0.7);
+    background: #1E90FF;
     height: 100%;
     left: 0;
     opacity: 0;

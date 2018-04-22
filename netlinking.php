@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Sport Blog - Sport Blog Template</title>
+    <title>Sport Blog - Netlinking</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
