@@ -479,11 +479,11 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area add-widget text-center">
                             <div class="add-widget-area">
-                                <img src="img/sidebar-img/6.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="add-text">
                                     <div class="yummy-table">
                                         <div class="yummy-table-cell">
-                                            <h2>Cooking Book</h2>
+                                            <h2>Sport Book</h2>
                                             <p>Buy Book Online Now!</p>
                                             <a href="#" class="add-btn">Buy Now</a>
                                         </div>

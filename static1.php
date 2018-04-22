@@ -232,20 +232,6 @@
                                         <h5 class="mb-30">“Le sport va chercher la peur pour la dominer, la fatigue pour en triompher, la difficulté pour la vaincre.”</h5>
                                         <h6 class="text-muted">Pierre de Coubertin</h6>
                                     </blockquote>
-
-                                    <h4>You Can Buy For Less Than A College Degree</h4>
-                                    <p>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-
-                                    <img class="br-30 mb-30" src="img/blog-img/11.jpg" alt="">
-                                    <ul class="mb-30">
-                                        <li>1/3 cup Lonsectetur adipisicing elit.Lorem ipsum</li>
-                                        <li>1/2 cup Veniam, quis nostrud exercitation</li>
-                                        <li>Ut labore et dolore magna</li>
-                                        <li>Lonsectetur adipisicing elit.Lorem ipsum</li>
-                                        <li>Lonsectetur adipisicing elit.Lorem ipsum</li>
-                                        <li>Ut labore et dolore magna</li>
-                                        <li>Lonsectetur adipisicing elit.Lorem ipsum</li>
-                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -342,11 +328,11 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area add-widget text-center">
                             <div class="add-widget-area">
-                                <img src="img/sidebar-img/6.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="add-text">
                                     <div class="yummy-table">
                                         <div class="yummy-table-cell">
-                                            <h2>Cooking Book</h2>
+                                            <h2>Sport Book</h2>
                                             <p>Buy Book Online Now!</p>
                                             <a href="#" class="add-btn">Buy Now</a>
                                         </div>
