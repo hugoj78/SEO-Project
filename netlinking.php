@@ -156,7 +156,7 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="bradcumb-title text-center">
-                        <h2>Sport Blog - Enduro</h2>
+                        <h2>Netlinking</h2>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                                 <a href="index.php">
                                     <i class="fa fa-home" aria-hidden="true"></i> Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Enduro</li>
+                            <li class="breadcrumb-item active" aria-current="page">Netlinking</li>
                         </ol>
                     </nav>
                 </div>
@@ -187,27 +187,6 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-lg-8">
                     <div class="row no-gutters">
-
-                        <!-- Single Post Share Info -->
-                        <div class="col-2 col-sm-1">
-                            <div class="single-post-share-info mt-100">
-                                <a href="#" class="facebook">
-                                    <i class="fa fa-facebook" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" class="twitter">
-                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" class="googleplus">
-                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" class="instagram">
-                                    <i class="fa fa-instagram" aria-hidden="true"></i>
-                                </a>
-                                <a href="#" class="pinterest">
-                                    <i class="fa fa-pinterest" aria-hidden="true"></i>
-                                </a>
-                            </div>
-                        </div>
 
                         <!-- Single Post -->
                         <div class="col-10 col-sm-11">
@@ -241,13 +220,6 @@
                                     <p>lien 1</p>
                                     <p>lien 1</p>
                                 </div>
-                            </div>
-
-                            <!-- Tags Area -->
-                            <div class="tags-area">
-                                <a href="#">Multipurpose</a>
-                                <a href="#">Design</a>
-                                <a href="#">Ideas</a>
                             </div>
 
                             <!-- Comment Area Start -->
