@@ -372,7 +372,7 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area popular-post-widget">
                             <div class="widget-title text-center">
-                                <h6>Populer Post</h6>
+                                <h6>Popular Post</h6>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
