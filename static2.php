@@ -390,7 +390,7 @@
                                 <h6>About Me</h6>
                             </div>
                             <div class="about-me-widget-thumb">
-                                <img src="img/about-img/1.jpg" alt="femme journaliste">
+                                <img src="img/about-img/3.png" alt="logo enduro">
                             </div>
                             <h4 class="font-shadow-into-light">Egu Hugo-Jean</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
