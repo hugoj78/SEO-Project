@@ -1,37 +1,65 @@
 <?xml version ="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://yummy.php/sitemap/sitemap.xml"
-		xmlns:image="http://yummy.php/sitemap-image">
-	<url>
-		<loc>https://yummy.php/static</loc>
-		<lastmod>2018-04-20T10:48:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yummy.php/static</loc>
-		<lastmod>2018-04-21T12:48:30+00:00</lastmod>
-	</url>
-	<url>
-    <loc>http://yummy.php/index</loc>
-    <image:image>
-      <image:loc>http://index.php/img/blog-img/courir2.jpg</image:loc>
-      <image:loc>http://index.php/img/blog-img/nager.jpeg</image:loc>
-      <image:loc>http://index.php/img/blog-img/ski.jpeg</image:loc>
-      <image:loc>http://index.php/img/blog-img/surf.jpeg</image:loc>
-      <image:loc>http://index.php/img/blog-img/moto.jpeg</image:loc>
-      <image:loc>http://index.php/img/blog-img/20.jpg</image:loc>
-    </image:image>
+<urlset xmlns="https://seo-projectb1.herokuapp.com/sitemap.xml"
+        xmlns:image="/img/core-img/flavicon.ico">
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/sitemap.xml</loc>
 
-    <image:image>
-      <image:loc>http://index.php/img/category-img/hand2.jpg</image:loc>
-      <image:loc>http://index.php/img/category-img/cros.jpg</image:loc>
-      <image:loc>http://index.php/img/category-img/formule1.png</image:loc>
-    </image:image>
+        <lastmod>2018-04-22</lastmod>
+    </url>
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/index.php</loc>
 
-    <image:image>
-      <image:loc>http://index.php/img/instagram-img/11.jpg</image:loc>
-      <image:loc>http://index.php/img/instagram-img/8.jpg</image:loc>
-    </image:image>
+        <lastmod>2018-04-22</lastmod>
 
-  </url> 
-</urlset> 
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/index.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/static1.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/static2.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/static3.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/netlinking.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
+
+    <url>
+        <loc>https://seo-projectb1.herokuapp.com/contact.php</loc>
+
+        <lastmod>2018-04-22</lastmod>
+
+        <changefreq>never</changefreq> 
+    </url>
 </urlset>
