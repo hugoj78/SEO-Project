@@ -222,7 +222,7 @@
                             <div class="single-post">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/10.jpg" alt="">
+                                    <img src="img/Static-moto-img/romaniac.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -900,7 +900,7 @@
         "@type": "ListItem",
         "position": 1,
         "item": {
-          "@id": "single.php",
+          "@id": "https://seo-projectb1.herokuapp.com/static.php",
           "name": "Jarvis remporte Red Bull Romaniacs",
           "image": "img/blog-img/5.jpg"
         }
@@ -908,7 +908,7 @@
         "@type": "ListItem",
         "position": 2,
         "item": {
-          "@id": "single.php",
+          "@id": "https://seo-projectb1.herokuapp.com/static.php",
           "name": "Jarvis triomphe au Red Bull Hare Scramble",
           "image": "img/blog-img/7.jpg"
         }
