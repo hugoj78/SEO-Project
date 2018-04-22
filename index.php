@@ -109,6 +109,7 @@
                                         <a class="dropdown-item" href="static1.php">Article 1</a>
                                         <a class="dropdown-item" href="static2.php">Article 2</a>
                                         <a class="dropdown-item" href="static3.php">Article 3</a>
+                                        <a class="dropdown-item" href="netlinking.php">Netlinking</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
