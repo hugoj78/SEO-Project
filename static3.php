@@ -716,21 +716,22 @@
                             <div class="collapse navbar-collapse justify-content-center" id="yummyfood-footer-nav">
                                 <ul class="navbar-nav">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="index.php">Home
-                                            <span class="sr-only">(current)</span>
-                                        </a>
+                                        <a class="nav-link" href="index.php">Home </a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Features</a>
+                                        <a class="nav-link" href="static1.php">Article 1</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Categories</a>
+                                        <a class="nav-link" href="static2.php">Article 2</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">About</a>
+                                        <a class="nav-link" href="static3.php">Article 3<span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Contact</a>
+                                        <a class="nav-link" href="netlinking.php">Netlinking</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="contact.php">Contact</a>
                                     </li>
                                 </ul>
                             </div>
