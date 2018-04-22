@@ -148,7 +148,7 @@
     <!-- ****** Header Area End ****** -->
 
     <!-- ****** Breadcumb Area Start ****** -->
-    <div class="breadcumb-area" style="background-image: url(img/catagory-img/hand.jpg);">
+    <div class="breadcumb-area" style="background-image: url(img/catagory-img/Formule1.png);">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
