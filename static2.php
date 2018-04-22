@@ -215,7 +215,7 @@
                             <div class="single-post">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/Static-moto-img/romaniac.jpg" alt="">
+                                    <img src="img/Static-moto-img/romaniac.jpg" alt="enduro">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -390,7 +390,7 @@
                                 <h6>About Me</h6>
                             </div>
                             <div class="about-me-widget-thumb">
-                                <img src="img/about-img/1.jpg" alt="">
+                                <img src="img/about-img/1.jpg" alt="femme journaliste">
                             </div>
                             <h4 class="font-shadow-into-light">Egu Hugo-Jean</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>

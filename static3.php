@@ -215,7 +215,7 @@
                             <div class="single-post">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/catagory-img/Formule.jpg" alt="">
+                                    <img src="img/catagory-img/Formule.jpg" alt="formule 1">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
