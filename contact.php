@@ -87,7 +87,7 @@
                 <!-- Logo Area Start -->
                 <div class="col-12">
                     <div class="logo_area text-center">
-                        <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                        <a href="index.php" class="yummy-logo">Sport Blog</a>
                     </div>
                 </div>
             </div>
@@ -120,6 +120,9 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="static3.php">article 3</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="netlinking.php">Netlinking</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.php">Contact</a>
@@ -203,7 +206,7 @@
             <div class="contact-form-area">
                 <div class="row">
                     <div class="col-12 col-md-5">
-                        <div class="contact-form-sidebar item wow fadeInUpBig" data-wow-delay="0.3s" style="background-image: url(img/bg-img/contact.jpg);">
+                        <div class="contact-form-sidebar item wow fadeInUpBig" data-wow-delay="0.3s" style="background-image: url(img/bg-img/moto.jpeg);">
                         </div>
                     </div>
                     <div class="col-12 col-md-7 item">
@@ -234,13 +237,13 @@
     </div>
     <!-- ****** Contact Area End ****** -->
 
-    <!-- ****** Instagram Area Start ****** -->
+       <!-- ****** Instagram Area Start ****** -->
     <div class="instargram_area owl-carousel section_padding_100_0 clearfix" id="portfolio">
 
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -256,7 +259,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -272,7 +275,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/3.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -288,7 +291,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/4.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -304,7 +307,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/5.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -320,7 +323,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/6.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -336,7 +339,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -352,7 +355,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">

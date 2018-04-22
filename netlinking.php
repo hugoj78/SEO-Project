@@ -151,12 +151,12 @@
     <!-- ****** Header Area End ****** -->
 
     <!-- ****** Breadcumb Area Start ****** -->
-    <div class="breadcumb-area" style="background-image: url(img/catagory-img/Formule1.png);">
+    <div class="breadcumb-area" style="background-image: url(img/catagory-img/vroum3.jpg);">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="bradcumb-title text-center">
-                        <h2>Sport Blog - Formule 1</h2>
+                        <h2>Sport Blog - Enduro</h2>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                                 <a href="index.php">
                                     <i class="fa fa-home" aria-hidden="true"></i> Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Formule 1</li>
+                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Enduro</li>
                         </ol>
                     </nav>
                 </div>
@@ -213,63 +213,33 @@
                         <div class="col-10 col-sm-11">
                             <div class="single-post">
                                 <!-- Post Thumb -->
-                                <div class="post-thumb">
-                                    <img src="img/catagory-img/Formule.jpg" alt="">
-                                </div>
-                                <!-- Post Content -->
-                                <div class="post-content">
-                                    <div class="post-meta d-flex">
-                                        <div class="post-author-date-area d-flex">
-                                            <!-- Post Author -->
-                                            <div class="post-author">
-                                                <a href="#">By FITAMANT Guillaume</a>
-                                            </div>
-                                            <!-- Post Date -->
-                                            <div class="post-date">
-                                                <a href="#">May 19, 2017</a>
-                                            </div>
-                                        </div>
-                                        <!-- Post Comment & Share Area -->
-                                        <div class="post-comment-share-area d-flex">
-                                            <!-- Post Favourite -->
-                                            <div class="post-favourite">
-                                                <a href="#">
-                                                    <i class="fa fa-heart-o" aria-hidden="true"></i> 10</a>
-                                            </div>
-                                            <!-- Post Comments -->
-                                            <div class="post-comments">
-                                                <a href="#">
-                                                    <i class="fa fa-comment-o" aria-hidden="true"></i> 12</a>
-                                            </div>
-                                            <!-- Post Share -->
-                                            <div class="post-share">
-                                                <a href="#">
-                                                    <i class="fa fa-share-alt" aria-hidden="true"></i>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="#">
-                                        <h2 class="post-headline">F1 2018 : Une hiérarchie instable.</h2>
-                                    </a>
-                                    <p>Le 25 Mars, la F1 revenait en force pour la saison 2018 avec le GP d’Australie. La course c’est soldé par un podium trusté par Ferrari et un Lewis Hamilton incapable de rivaliser dans sa flèche d’argent.
-                                    Pour le troisième Gp de la Saison, en Chine, c’est Daniel Ricciardo dans sa Red-bull qui a créé la surprise et remporté le grand prix, avec une voiture performante, rapide et n’usant que très peu ses gommes. 
-                                    Depuis, à l’aube du 4éme Grand prix de la saison, une question se pose. La saison 2018 va-t-elle voir apparaitre une hiérarchie dans les équipe ? 
-                                    </p>
-
-                                    <blockquote class="yummy-blockquote mt-30 mb-30">
-                                        <h5 class="mb-30">"Personnellement, je ne pense pas que Ferrari ait soudainement fait un grand pas en avant ou que Mercedes ait reculé. La Formule 1 est tellement complexe que les résultats reflètent le travail de centaines d’ingénieurs dans chaque équipe, et en conséquence, chaque solution – ou problème – est la résultante de nombreuses personnes qui intègrent beaucoup d’idées différentes."</h5>
-                                        <h6 class="text-muted">Mika Häkkinen</h6>
-                                    </blockquote>
-
-                                    <h4>Un peloton au coude à coude </h4>
-                                    <p>Depuis les essais hivernaux, on sait la Ferrari rapide et stable. Les ingénieurs de Maranello ont fait un excellent travail de développement cet hiver et le cheval cabré est maintenant plus rapide que jamais. En devançant les Mercedes de 0.6 secondes aux dernières qualifications Shanghaiennes, les rouges se sont imposés comme la valeur sure de ce printemps. 
-                                    A la traine, les Mercedes tentent de faire profil bas et s’organisent pour combattre les Red-bull, puissante cette année grâce à un châssis compétitif et un bloc moteur Renault qui fait des merveilles. 
-                                    Dans le reste du peloton, la lutte s’organise, mais on peine à voir une hiérarchie se former. Force India est décevante depuis le début d’année alors qu’ils s’étaient imposé que la 4éme force du plateau l’année passée. McLaren, bien qu’ayant signé un nouveau partenariat avec Renault, peinent à faire fonctionner leurs monoplace et sont à la lutte avec Haas, Force India, Renault et Toro Rosso (avec un Budget de 250 million d’euros, plus du double de Force India !). La lanterne rouge est tenue par Williams et Sauber, incapables de faire fonctionner leurs voitures aux mains de jeunes pilotes encore inexpérimenté.
-                                    </p>
-                                    <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/FDrolrgtuIk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                                    </div>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
+                                    <p>lien 1</p>
                                 </div>
                             </div>
 
@@ -381,7 +351,7 @@
                             <div class="about-me-widget-thumb">
                                 <img src="img/about-img/1.jpg" alt="">
                             </div>
-                            <h4 class="font-shadow-into-light">FITAMANT Guillaume</h4>
+                            <h4 class="font-shadow-into-light">Egu Hugo-Jean</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                         </div>
 
@@ -753,31 +723,6 @@
             </div>
         </div>
     </footer>
-
-    <!--  -->
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "BreadcrumbList",
-      "itemListElement": [{
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@id": "https://seo-projectb1.herokuapp.com/static2.php",
-          "name": "F1 2018 : Une hiérarchie instable.",
-          "image": "img/blog-img/5.jpg"
-        }
-      },{
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@id": "https://seo-projectb1.herokuapp.com/static2.php",
-          "name": "Un peloton au coude à coude",
-          "image": "img/blog-img/7.jpg"
-        }
-      }]
-    }
-    </script>
 
     <!-- ****** Footer Menu Area End ****** -->
 

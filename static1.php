@@ -136,6 +136,9 @@
                                     <a class="nav-link" href="static3.php">article 3</a>
                                 </li>
                                 <li class="nav-item">
+                                    <a class="nav-link" href="netlinking.php">Netlinking</a>
+                                </li>
+                                <li class="nav-item">
                                     <a class="nav-link" href="contact.php">Contact</a>
                                 </li>
                             </ul>

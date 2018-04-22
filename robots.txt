@@ -1,0 +1,8 @@
+User-agent: googlebot
+Disallow: /
+Allow: /static1.php
+Allow: /static2.php
+Allow: /static3.php
+
+
+Sitemap : https://seo-projectb1.herokuapp.com/sitemap.xml
