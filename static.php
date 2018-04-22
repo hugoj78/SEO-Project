@@ -545,50 +545,50 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/1.jpg" alt="">
+                                <img src="img/sidebar-img/7.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Top Wineries To Visit In England</h6>
+                                        <h6>Top dancer !</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/2.jpg" alt="">
+                                <img src="img/sidebar-img/10.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>The 8 Best Gastro Pubs In Bath</h6>
+                                        <h6>The 8 Best biker</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/3.jpg" alt="">
+                                <img src="img/sidebar-img/11.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Zermatt Unplugged the best festival</h6>
+                                        <h6>free ride in skateboard</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/4.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Harrogate's Top 10 Independent Eats</h6>
+                                        <h6>Race</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/5.jpg" alt="">
+                                <img src="img/sidebar-img/8.jpeg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Eating Out On A Budget In Oxford</h6>
+                                        <h6>Sport:muscultion </h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
