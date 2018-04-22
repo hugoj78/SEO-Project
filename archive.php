@@ -55,10 +55,10 @@
                     <div class="signup-search-area d-flex align-items-center justify-content-end">
                         <div class="login_register_area d-flex">
                             <div class="login">
-                                <a href="register.php">Sing in</a>
+                                <a href="register.php">Sign in</a>
                             </div>
                             <div class="register">
-                                <a href="register.php">Sing up</a>
+                                <a href="register.php">Sign up</a>
                             </div>
                         </div>
                         <!-- Search Button Area -->
