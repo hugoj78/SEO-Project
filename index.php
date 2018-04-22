@@ -106,9 +106,9 @@
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
                                         <a class="dropdown-item" href="index.php">Home</a>
-                                        <a class="dropdown-item" href="single.php">Article 1</a>
-                                        <a class="dropdown-item" href="static.php">Article 2</a>
-                                        <a class="dropdown-item" href="static.php">Article 3</a>
+                                        <a class="dropdown-item" href="static1.php">Article 1</a>
+                                        <a class="dropdown-item" href="static2.php">Article 2</a>
+                                        <a class="dropdown-item" href="static3.php">Article 3</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
@@ -227,7 +227,7 @@
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".3s">
                         <img src="img/catagory-img/hand2.jpg" alt="">
                         <div class="catagory-title">
-                            <a href="static.php">
+                            <a href="static1.php">
                                 <h5>Article 1</h5>
                             </a>
                         </div>
@@ -237,7 +237,7 @@
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".6s">
                         <img src="img/catagory-img/vroum3.jpg" alt="">
                         <div class="catagory-title">
-                            <a href="#">
+                            <a href="static2.php">
                                 <h5>Article 2</h5>
                             </a>
                         </div>
@@ -247,7 +247,7 @@
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".9s">
                         <img src="img/catagory-img/Formule1.png" alt="">
                         <div class="catagory-title">
-                            <a href="#">
+                            <a href="static3.php">
                                 <h5>Article 3</h5>
                             </a>
                         </div>

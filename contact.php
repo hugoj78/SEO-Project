@@ -106,9 +106,9 @@
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
                                         <a class="dropdown-item" href="index.php">Home</a>
-                                        <a class="dropdown-item" href="single.php">Article 1</a>
-                                        <a class="dropdown-item" href="static.php">Article 2</a>
-                                        <a class="dropdown-item" href="static.php">Article 3</a>
+                                        <a class="dropdown-item" href="static1.php">Article 1</a>
+                                        <a class="dropdown-item" href="static2.php">Article 2</a>
+                                        <a class="dropdown-item" href="static3.php">Article 3</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>

@@ -120,9 +120,9 @@
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
                                         <a class="dropdown-item" href="index.php">Home</a>
-                                        <a class="dropdown-item" href="single.php">Article 1</a>
-                                        <a class="dropdown-item" href="static.php">Article 2</a>
-                                        <a class="dropdown-item" href="static.php">Article 3</a>
+                                        <a class="dropdown-item" href="static1.php">Article 1</a>
+                                        <a class="dropdown-item" href="static2.php">Article 2</a>
+                                        <a class="dropdown-item" href="static3.php">Article 3</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
@@ -770,7 +770,7 @@
         "@type": "ListItem",
         "position": 1,
         "item": {
-          "@id": "https://seo-projectb1.herokuapp.com/static.php",
+          "@id": "https://seo-projectb1.herokuapp.com/static2.php",
           "name": "Jarvis remporte Red Bull Romaniacs",
           "image": "img/blog-img/5.jpg"
         }
@@ -778,7 +778,7 @@
         "@type": "ListItem",
         "position": 2,
         "item": {
-          "@id": "https://seo-projectb1.herokuapp.com/static.php",
+          "@id": "https://seo-projectb1.herokuapp.com/static2.php",
           "name": "Jarvis triomphe au Red Bull Hare Scramble",
           "image": "img/blog-img/7.jpg"
         }
