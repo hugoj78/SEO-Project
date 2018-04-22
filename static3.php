@@ -211,7 +211,7 @@
                             <div class="single-post">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/catagory-img/handball.jpg" alt="">
+                                    <img src="img/catagory-img/Formule.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
