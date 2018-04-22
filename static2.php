@@ -101,7 +101,7 @@
                 <!-- Logo Area Start -->
                 <div class="col-12">
                     <div class="logo_area text-center">
-                        <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                        <a href="index.php" class="yummy-logo">Sport Blog</a>
                     </div>
                 </div>
             </div>
@@ -711,7 +711,7 @@
                     <div class="footer-content">
                         <!-- Logo Area Start -->
                         <div class="footer-logo-area text-center">
-                            <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                            <a href="index.php" class="yummy-logo">Sport Blog</a>
                         </div>
                         <!-- Menu Area Start -->
                         <nav class="navbar navbar-expand-lg">

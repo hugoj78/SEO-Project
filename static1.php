@@ -43,11 +43,21 @@
                 <div class="col-5 col-sm-6">
                     <!--  Top Social bar start -->
                     <div class="top_social_bar">
-                        <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-skype" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+                        <a href="#">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-linkedin" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-skype" aria-hidden="true"></i>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-dribbble" aria-hidden="true"></i>
+                        </a>
                     </div>
                 </div>
                 <!--  Login Register Area -->
@@ -55,22 +65,26 @@
                     <div class="signup-search-area d-flex align-items-center justify-content-end">
                         <div class="login_register_area d-flex">
                             <div class="login">
-                                <a href="register.php">Sing in</a>
+                                <a href="register.php">Sign in</a>
                             </div>
                             <div class="register">
-                                <a href="register.php">Sing up</a>
+                                <a href="register.php">Sign up</a>
                             </div>
                         </div>
                         <!-- Search Button Area -->
                         <div class="search_button">
-                            <a class="searchBtn" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+                            <a class="searchBtn" href="#">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+                            </a>
                         </div>
                         <!-- Search Form -->
                         <div class="search-hidden-form">
                             <form action="#" method="get">
                                 <input type="search" name="search" id="search-anything" placeholder="Search Anything...">
                                 <input type="submit" value="" class="d-none">
-                                <span class="searchBtn"><i class="fa fa-times" aria-hidden="true"></i></span>
+                                <span class="searchBtn">
+                                    <i class="fa fa-times" aria-hidden="true"></i>
+                                </span>
                             </form>
                         </div>
                     </div>
@@ -87,7 +101,7 @@
                 <!-- Logo Area Start -->
                 <div class="col-12">
                     <div class="logo_area text-center">
-                        <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                        <a href="index.php" class="yummy-logo">Sport Blog</a>
                     </div>
                 </div>
             </div>
@@ -134,12 +148,12 @@
     <!-- ****** Header Area End ****** -->
 
     <!-- ****** Breadcumb Area Start ****** -->
-    <div class="breadcumb-area" style="background-image: url(img/bg-img/breadcumb.jpg);">
+    <div class="breadcumb-area" style="background-image: url(img/catagory-img/vroum3.jpg);">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="bradcumb-title text-center">
-                        <h2>Static Page</h2>
+                        <h2>Sport Blog - Handball</h2>
                     </div>
                 </div>
             </div>
@@ -151,9 +165,11 @@
                 <div class="col-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-                            <li class="breadcrumb-item"><a href="#">Archive</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Static Page</li>
+                            <li class="breadcrumb-item">
+                                <a href="#">
+                                    <i class="fa fa-home" aria-hidden="true"></i> Home</a>
+                            </li>
+                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Handball</li>
                         </ol>
                     </nav>
                 </div>
@@ -172,11 +188,21 @@
                         <!-- Single Post Share Info -->
                         <div class="col-2 col-sm-1">
                             <div class="single-post-share-info mt-100">
-                                <a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                <a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                <a href="#" class="googleplus"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-                                <a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                <a href="#" class="pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                                <a href="#" class="facebook">
+                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
+                                <a href="#" class="twitter">
+                                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                                </a>
+                                <a href="#" class="googleplus">
+                                    <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                </a>
+                                <a href="#" class="instagram">
+                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                </a>
+                                <a href="#" class="pinterest">
+                                    <i class="fa fa-pinterest" aria-hidden="true"></i>
+                                </a>
                             </div>
                         </div>
 
@@ -185,7 +211,7 @@
                             <div class="single-post">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/handball.jpg" alt="">
+                                    <img src="img/Static-moto-img/romaniac.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -193,7 +219,7 @@
                                         <div class="post-author-date-area d-flex">
                                             <!-- Post Author -->
                                             <div class="post-author">
-                                                <a href="#">By Winson</a>
+                                                <a href="#">By AU Winson</a>
                                             </div>
                                             <!-- Post Date -->
                                             <div class="post-date">
@@ -204,20 +230,23 @@
                                         <div class="post-comment-share-area d-flex">
                                             <!-- Post Favourite -->
                                             <div class="post-favourite">
-                                                <a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i> 10</a>
+                                                <a href="#">
+                                                    <i class="fa fa-heart-o" aria-hidden="true"></i> 10</a>
                                             </div>
                                             <!-- Post Comments -->
                                             <div class="post-comments">
-                                                <a href="#"><i class="fa fa-comment-o" aria-hidden="true"></i> 12</a>
+                                                <a href="#">
+                                                    <i class="fa fa-comment-o" aria-hidden="true"></i> 12</a>
                                             </div>
                                             <!-- Post Share -->
                                             <div class="post-share">
-                                                <a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i></a>
+                                                <a href="#">
+                                                    <i class="fa fa-share-alt" aria-hidden="true"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
                                     <a href="#">
-
                                         <h2 class="post-headline">Le Handball un sport incontournable ! </h2>
                                     </a>
                                     <p>Le handball est un sport qui existe depuis les années 1900, il est devenu un sport olympique en 1936.Ce sport se joue avec les mains, sur un terrain de 40 métres sur 20 métres, le temps de jeu est de 2x 30 min. C'est un sport de contacts et de stratégies. Tous les joueurs sur le terrain sont à la fois attanquants et défenseurs, et se joue à 7 contre 7, 6 joueurs de champs et un gardien, il existe des postes specifiques pour les joueurs de champs : ailiers, arrières, pivot et demi-centre.
@@ -234,6 +263,100 @@
                                     </blockquote>
                                 </div>
                             </div>
+
+                            <!-- Tags Area -->
+                            <div class="tags-area">
+                                <a href="#">Multipurpose</a>
+                                <a href="#">Design</a>
+                                <a href="#">Ideas</a>
+                            </div>
+
+                            <!-- Comment Area Start -->
+                            <div class="comment_area section_padding_50 clearfix">
+                                <h4 class="mb-30">2 Comments</h4>
+
+                                <ol>
+                                    <!-- Single Comment Area -->
+                                    <li class="single_comment_area">
+                                        <div class="comment-wrapper d-flex">
+                                            <!-- Comment Meta -->
+                                            <div class="comment-author">
+                                                <img src="img/blog-img/17.jpg" alt="">
+                                            </div>
+                                            <!-- Comment Content -->
+                                            <div class="comment-content">
+                                                <span class="comment-date text-muted">27 Aug 2018</span>
+                                                <h5>Brandon Kelley</h5>
+                                                <p>Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                                    adipisci velit, sed quia non numquam eius modi tempora.</p>
+                                                <a href="#">Like</a>
+                                                <a class="active" href="#">Reply</a>
+                                            </div>
+                                        </div>
+                                        <ol class="children">
+                                            <li class="single_comment_area">
+                                                <div class="comment-wrapper d-flex">
+                                                    <!-- Comment Meta -->
+                                                    <div class="comment-author">
+                                                        <img src="img/blog-img/18.jpg" alt="">
+                                                    </div>
+                                                    <!-- Comment Content -->
+                                                    <div class="comment-content">
+                                                        <span class="comment-date text-muted">27 Aug 2018</span>
+                                                        <h5>Brandon Kelley</h5>
+                                                        <p>Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet,
+                                                            consectetur, adipisci velit, sed quia non numquam eius modi tempora.</p>
+                                                        <a href="#">Like</a>
+                                                        <a class="active" href="#">Reply</a>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                    </li>
+                                    <li class="single_comment_area">
+                                        <div class="comment-wrapper d-flex">
+                                            <!-- Comment Meta -->
+                                            <div class="comment-author">
+                                                <img src="img/blog-img/19.jpg" alt="">
+                                            </div>
+                                            <!-- Comment Content -->
+                                            <div class="comment-content">
+                                                <span class="comment-date text-muted">27 Aug 2018</span>
+                                                <h5>Brandon Kelley</h5>
+                                                <p>Neque porro qui squam est, qui dolorem ipsum quia dolor sit amet, consectetur,
+                                                    adipisci velit, sed quia non numquam eius modi tempora.</p>
+                                                <a href="#">Like</a>
+                                                <a class="active" href="#">Reply</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ol>
+                            </div>
+
+                            <!-- Leave A Comment -->
+                            <div class="leave-comment-area section_padding_50 clearfix">
+                                <div class="comment-form">
+                                    <h4 class="mb-30">Leave A Comment</h4>
+
+                                    <!-- Comment Form -->
+                                    <form action="#" method="post">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="contact-name" placeholder="Name">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" id="contact-email" placeholder="Email">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="contact-website" placeholder="Website">
+                                        </div>
+                                        <div class="form-group">
+                                            <textarea class="form-control" name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
+                                        </div>
+                                        <button type="submit" class="btn contact-btn">Post Comment</button>
+                                    </form>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -249,7 +372,7 @@
                             <div class="about-me-widget-thumb">
                                 <img src="img/about-img/1.jpg" alt="">
                             </div>
-                            <h4 class="font-shadow-into-light">Shopia Bernard</h4>
+                            <h4 class="font-shadow-into-light">Au Winson</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt</p>
                         </div>
 
@@ -259,12 +382,24 @@
                                 <h6>Subscribe &amp; Follow</h6>
                             </div>
                             <div class="subscribe-link">
-                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-google" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                <a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
+                                <a href="#">
+                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-google" aria-hidden="true"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-vimeo" aria-hidden="true"></i>
+                                </a>
                             </div>
                         </div>
 
@@ -275,50 +410,50 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/1.jpg" alt="">
+                                <img src="img/sidebar-img/7.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Top Wineries To Visit In England</h6>
+                                        <h6>Top dancer !</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/2.jpg" alt="">
+                                <img src="img/sidebar-img/10.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>The 8 Best Gastro Pubs In Bath</h6>
+                                        <h6>The 8 Best biker</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/3.jpg" alt="">
+                                <img src="img/sidebar-img/11.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Zermatt Unplugged the best festival</h6>
+                                        <h6>free ride in skateboard</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/4.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Harrogate's Top 10 Independent Eats</h6>
+                                        <h6>Race</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/5.jpg" alt="">
+                                <img src="img/sidebar-img/8.jpeg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Eating Out On A Budget In Oxford</h6>
+                                        <h6>Sport:muscultion </h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
@@ -350,7 +485,9 @@
                             <div class="newsletter-form">
                                 <form action="#" method="post">
                                     <input type="email" name="newsletter-email" id="email" placeholder="Your email">
-                                    <button type="submit"><i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
+                                    <button type="submit">
+                                        <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+                                    </button>
                                 </form>
                             </div>
                         </div>
@@ -367,7 +504,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -383,7 +520,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -399,7 +536,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/3.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -415,7 +552,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/4.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -431,7 +568,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/5.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -447,7 +584,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/6.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -463,7 +600,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -479,7 +616,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -502,25 +639,46 @@
                 <div class="col-12">
                     <div class="footer-social-area d-flex">
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i><span>facebook</span></a>
+                            <a href="#">
+                                <i class="fa fa-facebook" aria-hidden="true"></i>
+                                <span>facebook</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
+                            <a href="#">
+                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                                <span>Twitter</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i><span>GOOGLE+</span></a>
+                            <a href="#">
+                                <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                <span>GOOGLE+</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i><span>linkedin</span></a>
+                            <a href="#">
+                                <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                                <span>linkedin</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+                            <a href="#">
+                                <i class="fa fa-instagram" aria-hidden="true"></i>
+                                <span>Instagram</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i><span>VIMEO</span></a>
+                            <a href="#">
+                                <i class="fa fa-vimeo" aria-hidden="true"></i>
+                                <span>VIMEO</span>
+                            </a>
                         </div>
                         <div class="single-icon">
-                            <a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i><span>YOUTUBE</span></a>
+                            <a href="#">
+                                <i class="fa fa-youtube-play" aria-hidden="true"></i>
+                                <span>YOUTUBE</span>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -537,25 +695,26 @@
                     <div class="footer-content">
                         <!-- Logo Area Start -->
                         <div class="footer-logo-area text-center">
-                            <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                            <a href="index.php" class="yummy-logo">Sport Blog</a>
                         </div>
                         <!-- Menu Area Start -->
                         <nav class="navbar navbar-expand-lg">
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#yummyfood-footer-nav" aria-controls="yummyfood-footer-nav" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars" aria-hidden="true"></i> Menu</button>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#yummyfood-footer-nav" aria-controls="yummyfood-footer-nav"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="fa fa-bars" aria-hidden="true"></i> Menu</button>
                             <!-- Menu Area Start -->
                             <div class="collapse navbar-collapse justify-content-center" id="yummyfood-footer-nav">
                                 <ul class="navbar-nav">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link" href="#">Home
+                                            <span class="sr-only">(current)</span>
+                                        </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Features</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Categories</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Archive</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">About</a>
@@ -576,13 +735,17 @@
                 <div class="col-12">
                     <!-- Copywrite Text -->
                     <div class="copy_right_text text-center">
-                        <p>Copyright @2018 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
+                        <p>Copyright @2018 All rights reserved | This template is made with
+                            <i class="fa fa-heart-o" aria-hidden="true"></i> by
+                            <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        </p>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
 
+    <!--  -->
     <script type="application/ld+json">
         {
       "@context": "http://schema.org",
@@ -606,7 +769,6 @@
       }]
     }
     </script>
-
 
     <!-- ****** Footer Menu Area End ****** -->
 
