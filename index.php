@@ -166,7 +166,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>nager tu dois</h5>
+                    <h5>Nager un sport complet</h5>
                 </a>
             </div>
         </div>
