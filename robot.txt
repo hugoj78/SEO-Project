@@ -1,0 +1,7 @@
+User-agent : Googlebot
+Disallow : /nongooglebot/
+
+User-agent : *
+Allow : /
+
+Sitemap : http://yummy.html/sitemap.xml
