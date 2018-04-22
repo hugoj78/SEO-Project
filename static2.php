@@ -127,13 +127,13 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">article1</a>
+                                    <a class="nav-link" href="static1.php">article1</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Article 2</a>
+                                    <a class="nav-link" href="static2.php">Article 2</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">article 3</a>
+                                    <a class="nav-link" href="static3.php">article 3</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.php">Contact</a>
