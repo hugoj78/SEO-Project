@@ -260,7 +260,7 @@
                                         <h5 class="mb-30">"C'est un sentiment incroyable de gagner Romaniacs 2016 pour la sixième fois. Quand
                                             j'ai commencé à faire la course il y a presque dix ans, je ne pouvais pas même
                                             rêver de gagner cette course 6 fois. Cette fois cela a été une bataille et j'étais
-                                            vraiment heureux d'arriver à la fin. Le jour de course on était assez dur et
+                                            vraiment heureux d'arriver à la fin. Le jour de course on été assez dur et
                                             cela m'a semblé de jamais se terminer. Il était difficile de naviguer aussi,
                                             je me suis perdu quelques fois malgré les GPS.”</h5>
                                         <h6 class="text-muted">Graham Jarvis</h6>
