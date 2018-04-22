@@ -153,7 +153,7 @@
             <div class="row h-100 align-items-center">
                 <div class="col-12">
                     <div class="bradcumb-title text-center">
-                        <h2>Sport Blog - Handball</h2>
+                        <h2>Sport Blog - Formule 1</h2>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@
                                 <a href="index.php">
                                     <i class="fa fa-home" aria-hidden="true"></i> Home</a>
                             </li>
-                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Handball</li>
+                            <li class="breadcrumb-item active" aria-current="page">Sport Blog - Formule 1</li>
                         </ol>
                     </nav>
                 </div>
