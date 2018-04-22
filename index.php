@@ -108,6 +108,7 @@
                                         <a class="dropdown-item" href="index.php">Home</a>
                                         <a class="dropdown-item" href="single.php">Article 1</a>
                                         <a class="dropdown-item" href="static.php">Article 2</a>
+                                        <a class="dropdown-item" href="static.php">Article 3</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
