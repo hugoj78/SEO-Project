@@ -1,7 +1,6 @@
 <?xml version ="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="https://seo-projectb1.herokuapp.com/sitemap.xml"
-        xmlns:image="/img/core-img/flavicon.ico">
+<urlset xmlns="https://seo-projectb1.herokuapp.com/sitemap.xml">
     <url>
         <loc>https://seo-projectb1.herokuapp.com/sitemap.xml</loc>
 
