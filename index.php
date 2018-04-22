@@ -182,7 +182,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>free ride</h5>
+                    <h5>Free ride</h5>
                 </a>
             </div>
         </div>
