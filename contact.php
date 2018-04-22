@@ -15,7 +15,7 @@
     <link rel="icon" href="img/core-img/favicon.ico">
 
     <!-- Core Stylesheet -->
-    <link href="style.css" rel="stylesheet">
+    <link href="css/others/style.css" rel="stylesheet">
 
     <!-- Responsive CSS -->
     <link href="css/responsive/responsive.css" rel="stylesheet">
@@ -55,10 +55,10 @@
                     <div class="signup-search-area d-flex align-items-center justify-content-end">
                         <div class="login_register_area d-flex">
                             <div class="login">
-                                <a href="register.html">Sing in</a>
+                                <a href="register.php">Sing in</a>
                             </div>
                             <div class="register">
-                                <a href="register.html">Sing up</a>
+                                <a href="register.php">Sing up</a>
                             </div>
                         </div>
                         <!-- Search Button Area -->
@@ -87,7 +87,7 @@
                 <!-- Logo Area Start -->
                 <div class="col-12">
                     <div class="logo_area text-center">
-                        <a href="index.html" class="yummy-logo">Yummy Blog</a>
+                        <a href="index.php" class="yummy-logo">Yummy Blog</a>
                     </div>
                 </div>
             </div>
@@ -100,16 +100,16 @@
                         <div class="collapse navbar-collapse justify-content-center" id="yummyfood-nav">
                             <ul class="navbar-nav" id="yummy-nav">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
-                                        <a class="dropdown-item" href="index.html">Home</a>
-                                        <a class="dropdown-item" href="archive.html">Archive</a>
-                                        <a class="dropdown-item" href="single.html">Single Blog</a>
-                                        <a class="dropdown-item" href="static.html">Static Page</a>
-                                        <a class="dropdown-item" href="contact.html">Contact</a>
+                                        <a class="dropdown-item" href="index.php">Home</a>
+                                        <a class="dropdown-item" href="archive.php">Archive</a>
+                                        <a class="dropdown-item" href="single.php">Single Blog</a>
+                                        <a class="dropdown-item" href="static.php">Static Page</a>
+                                        <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
                                 <li class="nav-item">
@@ -119,13 +119,13 @@
                                     <a class="nav-link" href="#">Categories</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="archive.html">Archive</a>
+                                    <a class="nav-link" href="archive.php">Archive</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">About</a>
                                 </li>
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="contact.html">Contact</a>
+                                    <a class="nav-link" href="contact.php">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -413,7 +413,7 @@
                     <div class="footer-content">
                         <!-- Logo Area Start -->
                         <div class="footer-logo-area text-center">
-                            <a href="index.html" class="yummy-logo">Yummy Blog</a>
+                            <a href="index.php" class="yummy-logo">Yummy Blog</a>
                         </div>
                         <!-- Menu Area Start -->
                         <nav class="navbar navbar-expand-lg">
