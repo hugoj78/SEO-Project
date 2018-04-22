@@ -125,7 +125,6 @@
                                         aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
                                         <a class="dropdown-item" href="index.php">Home</a>
-                                        <a class="dropdown-item" href="archive.php">Archive</a>
                                         <a class="dropdown-item" href="single.php">Single Blog</a>
                                         <a class="dropdown-item" href="static.php">Static Page</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
@@ -136,9 +135,6 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Categories</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="archive.php">Archive</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">About</a>
@@ -176,9 +172,6 @@
                             <li class="breadcrumb-item">
                                 <a href="#">
                                     <i class="fa fa-home" aria-hidden="true"></i> Home</a>
-                            </li>
-                            <li class="breadcrumb-item">
-                                <a href="#">Archive</a>
                             </li>
                             <li class="breadcrumb-item active" aria-current="page">Enduro Blog - Graham Jarvis</li>
                         </ol>
@@ -742,9 +735,6 @@
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Categories</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Archive</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">About</a>

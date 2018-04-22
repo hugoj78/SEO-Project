@@ -106,7 +106,6 @@
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
                                         <a class="dropdown-item" href="index.php">Home</a>
-                                        <a class="dropdown-item" href="archive.php">Archive</a>
                                         <a class="dropdown-item" href="single.php">Article 1</a>
                                         <a class="dropdown-item" href="static.php">Article 2</a>
                                         <a class="dropdown-item" href="contact.php">Contact</a>
@@ -120,9 +119,6 @@
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">article 3</a>
-                                </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="archive.php">Archive</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.php">Contact</a>
@@ -985,9 +981,6 @@
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">Categories</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">Archive</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">About</a>
