@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Yummy Blog - Food Blog Template</title>
+    <title>Sport Blog - Sport Blog Template</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -87,7 +87,7 @@
                 <!-- Logo Area Start -->
                 <div class="col-12">
                     <div class="logo_area text-center">
-                        <a href="index.php" class="yummy-logo">Yummy Blog</a>
+                        <a href="index.php" class="yummy-logo">Sport Blog</a>
                     </div>
                 </div>
             </div>
@@ -100,32 +100,32 @@
                         <div class="collapse navbar-collapse justify-content-center" id="yummyfood-nav">
                             <ul class="navbar-nav" id="yummy-nav">
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="yummyDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                     <div class="dropdown-menu" aria-labelledby="yummyDropdown">
-                                        <a class="dropdown-item" href="index.html">Home</a>
-                                        <a class="dropdown-item" href="archive.html">Archive</a>
-                                        <a class="dropdown-item" href="single.html">Single Blog</a>
-                                        <a class="dropdown-item" href="static.html">Static Page</a>
-                                        <a class="dropdown-item" href="contact.html">Contact</a>
+                                        <a class="dropdown-item" href="index.php">Home</a>
+                                        <a class="dropdown-item" href="archive.php">Archive</a>
+                                        <a class="dropdown-item" href="single.php">Article 1</a>
+                                        <a class="dropdown-item" href="static.php">Article 2</a>
+                                        <a class="dropdown-item" href="contact.php">Contact</a>
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Features</a>
+                                    <a class="nav-link" href="#">article1</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Categories</a>
+                                    <a class="nav-link" href="#">Article 2</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="archive.html">Archive</a>
+                                    <a class="nav-link" href="#">article 3</a>
+                                </li>
+                                 <li class="nav-item">
+                                    <a class="nav-link" href="archive.php">Archive</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Contact</a>
+                                    <a class="nav-link" href="contact.php">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -142,7 +142,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/slide-1.jpg" alt="">
+            <img src="img/bg-img/courir21.jpeg" alt="">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -150,7 +150,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>“I’ve Come and I’m Gone”: A Tribute to Istanbul’s Street</h5>
+                    <h5>courir pour perdre du poids</h5>
                 </a>
             </div>
         </div>
@@ -158,7 +158,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/slide-2.jpg" alt="">
+            <img src="img/bg-img/nager.jpeg" alt="">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -166,7 +166,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>“I’ve Come and I’m Gone”: A Tribute to Istanbul’s Street</h5>
+                    <h5>nager tu dois</h5>
                 </a>
             </div>
         </div>
@@ -174,7 +174,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/slide-3.jpg" alt="">
+            <img src="img/bg-img/moto.jpeg" alt="">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -182,7 +182,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>“I’ve Come and I’m Gone”: A Tribute to Istanbul’s Street</h5>
+                    <h5>free ride</h5>
                 </a>
             </div>
         </div>
@@ -190,7 +190,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/slide-4.jpg" alt="">
+            <img src="img/bg-img/surf.jpeg" alt="">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -198,7 +198,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>“I’ve Come and I’m Gone”: A Tribute to Istanbul’s Street</h5>
+                    <h5>surf </h5>
                 </a>
             </div>
         </div>
@@ -206,7 +206,7 @@
         <!-- Single Slide -->
         <div class="welcome-single-slide">
             <!-- Post Thumb -->
-            <img src="img/bg-img/slide-4.jpg" alt="">
+            <img src="img/bg-img/ski.jpeg" alt="">
             <!-- Overlay Text -->
             <div class="project_title">
                 <div class="post-date-commnents d-flex">
@@ -214,7 +214,7 @@
                     <a href="#">5 Comment</a>
                 </div>
                 <a href="#">
-                    <h5>“I’ve Come and I’m Gone”: A Tribute to Istanbul’s Street</h5>
+                    <h5>ski is the best </h5>
                 </a>
             </div>
         </div>
@@ -228,30 +228,30 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".3s">
-                        <img src="img/catagory-img/1.jpg" alt="">
+                        <img src="img/catagory-img/hand2.jpg" alt="">
                         <div class="catagory-title">
-                            <a href="#">
-                                <h5>Food</h5>
+                            <a href="static.php">
+                                <h5>Article 1</h5>
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".6s">
-                        <img src="img/catagory-img/2.jpg" alt="">
+                        <img src="img/catagory-img/vroum3.jpg" alt="">
                         <div class="catagory-title">
                             <a href="#">
-                                <h5>Cooking</h5>
+                                <h5>Article 2</h5>
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="single_catagory wow fadeInUp" data-wow-delay=".9s">
-                        <img src="img/catagory-img/3.jpg" alt="">
+                        <img src="img/catagory-img/Formule1.png" alt="">
                         <div class="catagory-title">
                             <a href="#">
-                                <h5>Life Style</h5>
+                                <h5>Article 3</h5>
                             </a>
                         </div>
                     </div>
@@ -273,7 +273,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".2s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/1.jpg" alt="">
+                                    <img src="img/blog-img/20.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -305,7 +305,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h2 class="post-headline">Boil The Kettle And Make A Cup Of Tea Folks, This Is Going To Be A Big One!</h2>
+                                        <h2 class="post-headline">Road to a new season for the team !</h2>
                                     </a>
                                     <p>Tiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat.</p>
                                     <a href="#" class="read-more">Continue Reading..</a>
@@ -318,7 +318,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".4s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/2.jpg" alt="">
+                                    <img src="img/blog-img/21.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -350,7 +350,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">Where To Get The Best Sunday Roast In The Cotswolds</h4>
+                                        <h4 class="post-headline">Sport fitness</h4>
                                     </a>
                                 </div>
                             </div>
@@ -361,7 +361,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".6s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/3.jpg" alt="">
+                                    <img src="img/blog-img/22.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -393,7 +393,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">The Top Breakfast And Brunch Spots In Hove, Brighton</h4>
+                                        <h4 class="post-headline">American Football!</h4>
                                     </a>
                                 </div>
                             </div>
@@ -404,7 +404,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay=".8s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/4.jpg" alt="">
+                                    <img src="img/blog-img/23.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -436,7 +436,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">The 10 Best Pubs In The Lake District, Cumbria</h4>
+                                        <h4 class="post-headline">World cup soccer</h4>
                                     </a>
                                 </div>
                             </div>
@@ -447,7 +447,7 @@
                             <div class="single-post wow fadeInUp" data-wow-delay="1s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/5.jpg" alt="">
+                                    <img src="img/blog-img/24.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -479,7 +479,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">The 10 Best Brunch Spots In Newcastle, England</h4>
+                                        <h4 class="post-headline">Extreme sport </h4>
                                     </a>
                                 </div>
                             </div>
@@ -492,7 +492,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".2s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/6.jpg" alt="">
+                                    <img src="img/blog-img/25.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -524,7 +524,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">The 10 Best Bars By The Seaside In Blackpool, UK</h4>
+                                        <h4 class="post-headline">Skateboard</h4>
                                     </a>
                                     <p>Tiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
                                     <a href="#" class="read-more">Continue Reading..</a>
@@ -537,7 +537,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".4s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/7.jpg" alt="">
+                                    <img src="img/blog-img/26.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -569,7 +569,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">How To Get a Narcissist to Feel Empathy</h4>
+                                        <h4 class="post-headline">Golf is the best </h4>
                                     </a>
                                     <p>Tiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
                                     <a href="#" class="read-more">Continue Reading..</a>
@@ -582,7 +582,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".6s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/8.jpg" alt="">
+                                    <img src="img/blog-img/27.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -614,7 +614,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">Bristol's 10 Amazing Weekend Brunches And Late Breakfasts</h4>
+                                        <h4 class="post-headline">Superbowl</h4>
                                     </a>
                                     <p>Tiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
                                     <a href="#" class="read-more">Continue Reading..</a>
@@ -627,7 +627,7 @@
                             <div class="list-blog single-post d-sm-flex wow fadeInUpBig" data-wow-delay=".8s">
                                 <!-- Post Thumb -->
                                 <div class="post-thumb">
-                                    <img src="img/blog-img/9.jpg" alt="">
+                                    <img src="img/blog-img/28.jpg" alt="">
                                 </div>
                                 <!-- Post Content -->
                                 <div class="post-content">
@@ -659,7 +659,7 @@
                                         </div>
                                     </div>
                                     <a href="#">
-                                        <h4 class="post-headline">10 Of The Best Places To Eat In Liverpool, England</h4>
+                                        <h4 class="post-headline">Sport of the week </h4>
                                     </a>
                                     <p>Tiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
                                     <a href="#" class="read-more">Continue Reading..</a>
@@ -707,50 +707,50 @@
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/1.jpg" alt="">
+                                <img src="img/sidebar-img/7.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Top Wineries To Visit In England</h6>
+                                        <h6>Top dancer !</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/2.jpg" alt="">
+                                <img src="img/sidebar-img/10.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>The 8 Best Gastro Pubs In Bath</h6>
+                                        <h6>The 8 Best biker</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/3.jpg" alt="">
+                                <img src="img/sidebar-img/11.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Zermatt Unplugged the best festival</h6>
+                                        <h6>free ride in skateboard</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/4.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Harrogate's Top 10 Independent Eats</h6>
+                                        <h6>Race</h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
                             </div>
                             <!-- Single Popular Post -->
                             <div class="single-populer-post d-flex">
-                                <img src="img/sidebar-img/5.jpg" alt="">
+                                <img src="img/sidebar-img/8.jpeg" alt="">
                                 <div class="post-content">
                                     <a href="#">
-                                        <h6>Eating Out On A Budget In Oxford</h6>
+                                        <h6>Sport:muscultion </h6>
                                     </a>
                                     <p>Tuesday, October 3, 2017</p>
                                 </div>
@@ -760,11 +760,11 @@
                         <!-- Single Widget Area -->
                         <div class="single-widget-area add-widget text-center">
                             <div class="add-widget-area">
-                                <img src="img/sidebar-img/6.jpg" alt="">
+                                <img src="img/sidebar-img/12.jpg" alt="">
                                 <div class="add-text">
                                     <div class="yummy-table">
                                         <div class="yummy-table-cell">
-                                            <h2>Cooking Book</h2>
+                                            <h2>Sport Book</h2>
                                             <p>Buy Book Online Now!</p>
                                             <a href="#" class="add-btn">Buy Now</a>
                                         </div>
@@ -799,7 +799,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -815,7 +815,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -831,7 +831,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/3.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -847,7 +847,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/4.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -863,7 +863,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/5.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -879,7 +879,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/6.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -895,7 +895,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/1.jpg" alt="">
+            <img src="img/instagram-img/8.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -911,7 +911,7 @@
         <!-- Instagram Item -->
         <div class="instagram_gallery_item">
             <!-- Instagram Thumb -->
-            <img src="img/instagram-img/2.jpg" alt="">
+            <img src="img/instagram-img/11.jpg" alt="">
             <!-- Hover -->
             <div class="hover_overlay">
                 <div class="yummy-table">
@@ -969,7 +969,7 @@
                     <div class="footer-content">
                         <!-- Logo Area Start -->
                         <div class="footer-logo-area text-center">
-                            <a href="index.html" class="yummy-logo">Yummy Blog</a>
+                            <a href="index.php" class="yummy-logo">Sport Blog</a>
                         </div>
                         <!-- Menu Area Start -->
                         <nav class="navbar navbar-expand-lg">
